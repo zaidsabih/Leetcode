@@ -10,6 +10,7 @@
 | [0485-max-consecutive-ones](https://github.com/mdzaheerjk/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
