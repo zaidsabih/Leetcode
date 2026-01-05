@@ -27,6 +27,7 @@
 | [0344-reverse-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@
 | [0344-reverse-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
