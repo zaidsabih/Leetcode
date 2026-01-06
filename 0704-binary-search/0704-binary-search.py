@@ -3,7 +3,7 @@ class Solution(object):
         first=0
         last=len(nums)-1
         while first<=last:
-            mid=(first+last)//2
+            mid=first+(last-first)//2
             if nums[mid]==target:
                 return mid
             elif nums[mid]<target:
