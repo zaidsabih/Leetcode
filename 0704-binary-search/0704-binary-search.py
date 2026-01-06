@@ -11,3 +11,4 @@ class Solution(object):
             else:
                 last=mid-1
         return -1
+        
