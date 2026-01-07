@@ -13,7 +13,7 @@ class Solution(object):
                 c+=1
         for i in range(c,len(word)):
             ans2.append(word[i])
-        if ch not in ans1:
+        if ch not in word:
             return word
         i=0
         j=len(ans1)-1
