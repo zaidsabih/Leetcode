@@ -13,6 +13,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -30,6 +31,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
