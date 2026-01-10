@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/mdzaheerjk/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzaheerjk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mdzaheerjk/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdzaheerjk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -120,6 +122,15 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
