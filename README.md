@@ -59,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/mdzaheerjk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/mdzaheerjk/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mdzaheerjk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Greedy
