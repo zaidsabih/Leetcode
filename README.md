@@ -64,6 +64,7 @@
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/mdzaheerjk/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdzaheerjk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -76,6 +77,7 @@
 | [0344-reverse-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0771-jewels-and-stones](https://github.com/mdzaheerjk/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/mdzaheerjk/Leetcode/tree/master/2000-reverse-prefix-of-word) |
