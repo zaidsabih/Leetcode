@@ -66,6 +66,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdzaheerjk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -79,6 +80,7 @@
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/mdzaheerjk/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,8 +146,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
