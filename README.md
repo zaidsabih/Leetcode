@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Two Pointers
 |  |
 | ------- |
