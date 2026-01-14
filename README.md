@@ -26,6 +26,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,4 +175,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
