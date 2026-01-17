@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mdzaheerjk/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,6 +38,7 @@
 | [0007-reverse-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -67,6 +69,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mdzaheerjk/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzaheerjk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
@@ -79,6 +82,7 @@
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/mdzaheerjk/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -158,6 +162,7 @@
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -178,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Geometry
 |  |
