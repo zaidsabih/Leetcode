@@ -28,6 +28,7 @@
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdzaheerjk/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Math
@@ -41,6 +42,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Simulation
 |  |
 | ------- |
