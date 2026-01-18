@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
