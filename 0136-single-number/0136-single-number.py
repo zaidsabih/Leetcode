@@ -1,6 +1,11 @@
 class Solution(object):
     def singleNumber(self, nums):
-        count=0
-        for num in nums:
-            count^=num
-        return count
+        hash_map={}
+        for i in nums:
+            if i in hash_map:
+                hash_map[i]+=1
+            else:
+                hash_map[i]=1
+        for key,value in hash_map.items():
+            if value==1:
+                return key
