@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/mdzaheerjk/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzaheerjk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -186,6 +187,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Geometry
