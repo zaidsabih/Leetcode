@@ -88,6 +88,7 @@
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/mdzaheerjk/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdzaheerjk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -102,6 +103,7 @@
 | [0125-valid-palindrome](https://github.com/mdzaheerjk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/mdzaheerjk/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
