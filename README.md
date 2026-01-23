@@ -38,6 +38,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdzaheerjk/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -246,4 +249,20 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
