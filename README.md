@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/mdzaheerjk/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/mdzaheerjk/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/mdzaheerjk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -70,6 +71,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mdzaheerjk/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/mdzaheerjk/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/mdzaheerjk/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/mdzaheerjk/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -190,6 +192,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/mdzaheerjk/Leetcode/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/mdzaheerjk/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdzaheerjk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
