@@ -31,6 +31,7 @@
 | [1748-sum-of-unique-elements](https://github.com/mdzaheerjk/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdzaheerjk/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Segment Tree
