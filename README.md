@@ -28,6 +28,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mdzaheerjk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/mdzaheerjk/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
