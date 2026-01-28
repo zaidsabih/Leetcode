@@ -61,6 +61,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
+| [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
 | ------- |
