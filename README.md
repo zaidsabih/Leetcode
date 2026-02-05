@@ -49,6 +49,7 @@
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/mdzaheerjk/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -262,6 +263,7 @@
 | [0415-add-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/mdzaheerjk/Leetcode/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Segment Tree
 |  |
