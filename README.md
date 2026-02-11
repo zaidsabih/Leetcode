@@ -58,6 +58,7 @@
 | [3640-trionic-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdzaheerjk/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/mdzaheerjk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | ------- |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -309,6 +313,7 @@
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Queue
 |  |
 | ------- |
