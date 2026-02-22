@@ -1,13 +1,12 @@
 class Solution(object):
-    """solution"""
     def twoSum(self, numbers, target):
-        i=0
-        j=len(numbers)-1
-        while i<j:
-            if numbers[i]+numbers[j]==target:
-                return i+1,j+1
-            elif numbers[i]+numbers[j]>target:
-                j-=1
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            if numbers[left]+numbers[right]==target:
+                return [left+1,right+1]
+            elif numbers[left]+numbers[right]<target:
+                left+=1
             else:
-                i+=1
-        return 
+                right-=1
+        return -1
