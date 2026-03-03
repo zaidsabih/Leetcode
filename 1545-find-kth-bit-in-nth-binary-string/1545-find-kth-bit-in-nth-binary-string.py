@@ -4,15 +4,15 @@ class Solution(object):
             temp=""
             for i in s:
                 if(i=="1"):
-                    temp+="0";
+                    temp+="0"
                 else:
-                    temp+="1";
-            return temp;
+                    temp+="1"
+            return temp
         def func(n):
             if(n==1):
-                return "0";
+                return "0"
             else:
-                t=func(n-1);
+                t=func(n-1)
                 return t+"1"+invert(t)[::-1]
         return func(n)[k-1]
         """
