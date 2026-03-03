@@ -9,5 +9,4 @@ class Solution(object):
         for i in range(len(s)):
             if hash_map[s[i]]==1:
                 return i
-                
         return -1
