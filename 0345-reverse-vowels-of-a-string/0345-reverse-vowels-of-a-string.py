@@ -1,17 +1,17 @@
 class Solution(object):
     def reverseVowels(self, s):
         vowels=['A','E','I','O','U','a','e','i','o','u']
-        lst=list(s)
-        front=0
-        end=len(lst)-1
-        while front<end:
-            if lst[front] in vowels and lst[end] in vowels:
-                lst[front],lst[end]=lst[end],lst[front]
-                front+=1
-                end-=1
-            elif lst[front] in vowels and lst[end] not in vowels:
-                end-=1
-            else:
-                front+=1
-        return "".join(lst)
+        left=0
+        right=len(s)-1
+        s=list(s)
+        while left<right:
+            if not s[left] in vowels:
+                left+=1
+            elif not s[right] in vowels:
+                right-=1
+            elif s[right] in vowels and s[left] in vowels:
+                s[left],s[right]=s[right],s[left]
+                left+=1
+                right-=1
+        return "".join(s)
         
