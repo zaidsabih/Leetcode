@@ -11,6 +11,4 @@ class Solution(object):
             else:
                 first=mid+1
         return last+1
-
-
         
