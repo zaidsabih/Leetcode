@@ -15,4 +15,3 @@ class Solution(object):
                 j-=1
             k-=1
         return result
-        
