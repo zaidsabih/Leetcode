@@ -3,11 +3,11 @@ class Solution(object):
         k=m+n-1
         i=m-1
         j=n-1
-        while  j>=0 and i>=0:
-            if nums2[j]>=nums1[i]:
+        while i>=0 and j>=0:
+            if nums2[j]>nums1[i]:
                 nums1[k]=nums2[j]
                 j-=1
-            elif nums1[i]>=nums2[j]:
+            else:
                 nums1[k]=nums1[i]
                 i-=1
             k-=1
@@ -15,5 +15,4 @@ class Solution(object):
             nums1[k]=nums2[j]
             j-=1
             k-=1
-            
         return nums1
