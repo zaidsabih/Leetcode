@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mdzaheerjk/Leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/mdzaheerjk/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -129,6 +130,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mdzaheerjk/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0229-majority-element-ii) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdzaheerjk/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mdzaheerjk/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mdzaheerjk/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mdzaheerjk/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mdzaheerjk/Leetcode/tree/master/0125-valid-palindrome) |
@@ -274,6 +277,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mdzaheerjk/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdzaheerjk/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdzaheerjk/Leetcode/tree/master/0217-contains-duplicate) |
