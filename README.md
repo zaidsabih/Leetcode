@@ -73,6 +73,7 @@
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mdzaheerjk/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/mdzaheerjk/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0507-perfect-number) |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/mdzaheerjk/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mdzaheerjk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
