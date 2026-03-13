@@ -53,6 +53,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/mdzaheerjk/Leetcode/tree/master/3379-transformed-array) |
@@ -86,6 +87,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mdzaheerjk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -232,6 +235,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mdzaheerjk/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -418,6 +422,7 @@
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/mdzaheerjk/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
