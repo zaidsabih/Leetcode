@@ -83,6 +83,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mdzaheerjk/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mdzaheerjk/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/mdzaheerjk/Leetcode/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/mdzaheerjk/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdzaheerjk/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -381,6 +382,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/mdzaheerjk/Leetcode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -488,4 +490,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/mdzaheerjk/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
