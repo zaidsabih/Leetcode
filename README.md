@@ -39,6 +39,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/mdzaheerjk/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mdzaheerjk/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
@@ -139,6 +140,7 @@
 | [0441-arranging-coins](https://github.com/mdzaheerjk/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mdzaheerjk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mdzaheerjk/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3453-separate-squares-i) |
