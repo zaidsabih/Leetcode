@@ -5,7 +5,7 @@ class Solution(object):
         while i<j:
             if s[i]!=s[j]:
                 return 2
-            i+=1
-            j-=1
+            else:
+                i+=1
+                j-=1
         return 1
-        
