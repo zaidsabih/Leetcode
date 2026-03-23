@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdzaheerjk/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/mdzaheerjk/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mdzaheerjk/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -236,6 +237,7 @@
 | [0799-champagne-tower](https://github.com/mdzaheerjk/Leetcode/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/mdzaheerjk/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mdzaheerjk/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdzaheerjk/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -259,6 +261,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mdzaheerjk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
