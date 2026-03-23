@@ -7,7 +7,7 @@ class Solution(object):
                 left+=1
             elif not s[right].isalnum():
                 right-=1
-            elif s[left].lower()!=s[right].lower():
+            elif s[right].lower()!=s[left].lower():
                 return False
             else:
                 left+=1
