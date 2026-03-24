@@ -52,6 +52,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
+| [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdzaheerjk/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mdzaheerjk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -267,6 +268,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mdzaheerjk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdzaheerjk/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mdzaheerjk/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mdzaheerjk/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -435,6 +437,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdzaheerjk/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
