@@ -83,6 +83,7 @@
 | [0009-palindrome-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mdzaheerjk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mdzaheerjk/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mdzaheerjk/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mdzaheerjk/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mdzaheerjk/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mdzaheerjk/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdzaheerjk/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdzaheerjk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
