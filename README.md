@@ -55,6 +55,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mdzaheerjk/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mdzaheerjk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -102,6 +103,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mdzaheerjk/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/mdzaheerjk/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mdzaheerjk/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -276,6 +278,7 @@
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdzaheerjk/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mdzaheerjk/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -413,6 +416,7 @@
 | [1929-concatenation-of-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/mdzaheerjk/Leetcode/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Segment Tree
