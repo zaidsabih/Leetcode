@@ -53,6 +53,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -232,6 +233,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/mdzaheerjk/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mdzaheerjk/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -250,6 +252,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mdzaheerjk/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdzaheerjk/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mdzaheerjk/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -264,6 +267,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mdzaheerjk/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
@@ -277,6 +281,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mdzaheerjk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/mdzaheerjk/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mdzaheerjk/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mdzaheerjk/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/mdzaheerjk/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -533,6 +538,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
