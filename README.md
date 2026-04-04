@@ -235,6 +235,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mdzaheerjk/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/mdzaheerjk/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mdzaheerjk/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -433,6 +434,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mdzaheerjk/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/mdzaheerjk/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2562-find-the-array-concatenation-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2751-robot-collisions](https://github.com/mdzaheerjk/Leetcode/tree/master/2751-robot-collisions) |
