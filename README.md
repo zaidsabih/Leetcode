@@ -42,6 +42,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/mdzaheerjk/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/mdzaheerjk/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/mdzaheerjk/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mdzaheerjk/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
