@@ -56,6 +56,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mdzaheerjk/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mdzaheerjk/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/mdzaheerjk/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/mdzaheerjk/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/mdzaheerjk/Leetcode/tree/master/2540-minimum-common-value) |
@@ -262,6 +263,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/mdzaheerjk/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/mdzaheerjk/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/mdzaheerjk/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mdzaheerjk/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/mdzaheerjk/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -567,6 +569,7 @@
 ## Trie
 |  |
 | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/mdzaheerjk/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Binary Search Tree
 |  |
