@@ -38,6 +38,7 @@
 | [1470-shuffle-the-array](https://github.com/mdzaheerjk/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mdzaheerjk/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdzaheerjk/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -319,6 +320,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mdzaheerjk/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/mdzaheerjk/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -352,12 +354,14 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdzaheerjk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/mdzaheerjk/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mdzaheerjk/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdzaheerjk/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mdzaheerjk/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mdzaheerjk/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mdzaheerjk/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -599,6 +603,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mdzaheerjk/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mdzaheerjk/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/mdzaheerjk/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdzaheerjk/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
