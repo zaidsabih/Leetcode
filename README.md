@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/mdzaheerjk/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdzaheerjk/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdzaheerjk/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/mdzaheerjk/Leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/mdzaheerjk/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/mdzaheerjk/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mdzaheerjk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -111,6 +112,7 @@
 | [0069-sqrtx](https://github.com/mdzaheerjk/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mdzaheerjk/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/mdzaheerjk/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/mdzaheerjk/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/mdzaheerjk/Leetcode/tree/master/0441-arranging-coins) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdzaheerjk/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/mdzaheerjk/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/mdzaheerjk/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/mdzaheerjk/Leetcode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mdzaheerjk/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/mdzaheerjk/Leetcode/tree/master/0799-champagne-tower) |
